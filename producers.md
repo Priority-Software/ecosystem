@@ -1,6 +1,6 @@
-*Template of this file*<br>
-**Name and URL**<br>
-Description<br>
+
+**[Priority Software](http://www.priority-software.com/)**<br>
+Priority is an established ERP software available in the cloud or on premise and used by 7,000 customers worldwide. Priority offers a full business management package that is rich in functionality, fully integrative, simple to implement and easy to maintain. All user screens and application data in Priority are exposed as OData URLs according to the OData API specification.<br>
 
 ---------------------------------------------------------------------------------------------------------------
 **[1C:Enterprise built-in OData service](http://1c-dn.com/1c_enterprise/)**<br>
