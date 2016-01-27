@@ -1,6 +1,5 @@
 
-**[Priority Software](http://www.priority-software.com/)**<br>
-Priority is an established ERP software available in the cloud or on premise and used by 7,000 customers worldwide. Priority offers a full business management package that is rich in functionality, fully integrative, simple to implement and easy to maintain. All user screens and application data in Priority are exposed as OData URLs according to the OData API specification.<br>
+
 
 ---------------------------------------------------------------------------------------------------------------
 **[1C:Enterprise built-in OData service](http://1c-dn.com/1c_enterprise/)**<br>
@@ -42,6 +41,9 @@ Business data in Dynamics NAV 2013 ERP solutions can be accessed as OData feeds.
 
 **[Progress DataDirect Cloud](https://www.progress.com/products/datadirect-cloud)**<br>
 Progress DataDirect Cloud is a data connectivity service that exposes SaaS application data (e.g. Salesforce.com), on-premise relational data (e.g. Oracle), Big Data (e.g. Hadoop), and NewSQL/NoSQL data (e.g. MongoDB) as an OData feed.
+
+**[Priority Software](http://www.priority-software.com/)**<br>
+Priority is an established ERP software available in the cloud or on premise and used by 7,000 customers worldwide. Priority offers a full business management package that is rich in functionality, fully integrative, simple to implement and easy to maintain. All user screens and application data in Priority are exposed as OData URLs according to the OData API specification.<br>
 
 **[RemObjects Data Abstract](http://www.remobjects.com/da/OData.aspx)**<br>
 A full multi-tier database application framework that supports publishing data for insert, select, update and delete via OData. Server libraries for .NET, Mono (Linux & OS X) and Delphi
